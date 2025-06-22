@@ -1,7 +1,7 @@
 # CONSTRUCTORA
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -344,8 +344,6 @@
   <section id="galeria">
     <h2>Galería de Proyectos</h2>
     <div class="galeria">
-      <img src="imagenes/imagen_1_1.jpeg" alt="Instalación de tablaroca" loading="lazy">
-      <img src="imagenes/imagen_1_3.png" alt="Acabado de muros" loading="lazy">
       <img src="imagenes/imagen_2_5.jpeg" alt="Piso y azulejo en cocina" loading="lazy">
       <img src="imagenes/imagen_3_3.jpeg" alt="Drenaje y fontanería" loading="lazy">
       <img src="imagenes/imagen_4_1.jpeg" alt="Colocación de estufa eléctrica" loading="lazy">
